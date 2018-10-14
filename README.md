@@ -1,1 +1,5 @@
 # NLP
+
+'''
+pip install nltk
+'''
